@@ -5,7 +5,6 @@
 Rainfall Pattern Analysis and Prediction is a Python-based data science project developed as part of my academic coursework at Lovely Professional University.
 
 The project focuses on analysing historical rainfall data across India from **1901 to 2015**, covering 36 meteorological subdivisions. It uses data preprocessing, Exploratory Data Analysis (EDA), data visualization, machine learning and statistical techniques to understand rainfall patterns and estimate future rainfall.
-
 An interactive web dashboard has been developed using **Streamlit**, allowing users to explore rainfall information, compare different regions, evaluate prediction models and identify unusual rainfall observations.
 
 ## 🎯 Project Objectives
